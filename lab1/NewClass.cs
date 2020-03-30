@@ -8,5 +8,9 @@ namespace lab1
 {
     class NewClass
     {
+        void promjena(){
+        
+        }
     }
 }
+//dodana jedna metoda
