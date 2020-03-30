@@ -10,7 +10,10 @@ namespace lab1
     {
         static void Main(string[] args)
         {
+            //ispis na ekran
             Console.WriteLine("prvi labovi");
+            Console.WriteLine("Ćavnakoć");
         }
     }
 }
+//dodan komentar i jos jedan ispis
