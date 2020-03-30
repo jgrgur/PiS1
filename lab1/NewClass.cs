@@ -8,5 +8,8 @@ namespace lab1
 {
     class NewClass
     {
+        void metoda()
+        {
+        }
     }
 }
